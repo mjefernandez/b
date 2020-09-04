@@ -1,0 +1,31 @@
+
+
+}
+.right-design{
+  width: 35%;
+  height: 545px;
+  margin-bottom: 0;
+  border-style: hidden;
+  border-top-right-radius: 210px;
+  border-top-left-radius: 210px;
+  position: absolute;
+  left: 150%;
+  bottom: -100px;
+  background-color: #f7edfa;
+
+}
+.left-design{
+  width: 35%;
+  height: 545px;
+  border-style: hidden;
+  border-bottom-right-radius: 210px;
+  border-bottom-left-radius: 210px;
+  position: absolute;
+  right: 10%;
+
+  background: rgb(162,0,255);
+background: -moz-linear-gradient(38deg, rgba(162,0,255,1) 56%, rgba(185,83,195,1) 100%);
+background: -webkit-linear-gradient(38deg, rgba(162,0,255,1) 56%, rgba(185,83,195,1) 100%);
+background: linear-gradient(38deg, rgba(162,0,255,1) 56%, rgba(185,83,195,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#a200ff",endColorstr="#b953c3",GradientType=1);
+}
